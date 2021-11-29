@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3f296c769b47cb344bfc87846c3e04b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aSRepObject: {fileID: 11400000, guid: c31de0ed2c7a32b47ae3406428017d4e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

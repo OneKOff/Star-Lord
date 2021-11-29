@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c0b7f85d344a7f748841508c50a8cc99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lockedLevelImage: {fileID: 9006469751988999362, guid: 18e37624a2b30db45aeb4c07f88a8158,
+      type: 3}
+  - unlockedLevelImage: {fileID: 2062650064889436068, guid: 6dcf99f341868af4faa756249262e48b,
+      type: 3}
+  - completedLevelImage: {fileID: 2881371837489949639, guid: ac4cb8abaf92d9a469c63d10bd8f2292,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 38c52164a09259844aee841fe6f5e2fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aSRecObject: {fileID: 11400000, guid: d8845508856164d4b82952f7ce5bb542, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

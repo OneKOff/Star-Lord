@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 30b244de25280074ab550cd8bd897f75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aLBObject: {fileID: 11400000, guid: d547cc5f5ff9ea449ae4d67e7db7d804, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

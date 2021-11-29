@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54d20a912e817e24e9c3fd964c8d1278
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aEBObject: {fileID: 11400000, guid: 882b830c1e219774e899b2d3fafa4b39, type: 2}
+  - barrierPrefab: {fileID: 6890603137817200624, guid: 4583ae6d48b2c2a4cb6ecbc487403cdf,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
